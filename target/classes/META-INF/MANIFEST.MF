@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Venkatesh
+Class-Path: jHardware-0.8.5.jar WMI4Java-1.6.1.jar jPowerShell-1.9.jar
+  jSensors-2.0.jar jna-4.2.2.jar slf4j-simple-1.7.21.jar slf4j-api-1.7
+ .21.jar reflections-0.9.11.jar guava-20.0.jar javassist-3.21.0-GA.jar
+  commons-configuration2-2.1.1.jar commons-lang3-3.3.2.jar commons-log
+ ging-1.2.jar commons-collections4-4.1.jar
+Build-Jdk: 1.8.0_151
+Created-By: Maven Integration for Eclipse
+Main-Class: com.mevenk.utils.ExceptionStackTraceAnalyzer
+
